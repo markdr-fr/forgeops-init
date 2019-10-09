@@ -1,0 +1,6 @@
+{
+    "handler": {
+        "type": "Router",
+        "name": "_Router"
+    }
+}
